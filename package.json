@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/erikrios/nodejs-expressjs/issues"
   },
-  "homepage": "https://github.com/erikrios/nodejs-expressjs#readme"
+  "homepage": "https://github.com/erikrios/nodejs-expressjs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
